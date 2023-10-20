@@ -1,1 +1,1 @@
-alert('Sente a vibe e se diverta!');
+alert('Que tal um pouco de música?');
