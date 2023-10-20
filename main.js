@@ -1,1 +1,1 @@
-alert('Olá mundo!');
+alert('Sente a vibe e se diverta!');
