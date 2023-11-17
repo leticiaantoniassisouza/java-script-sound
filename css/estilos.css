@@ -3,7 +3,7 @@
   --vermelha: #344692;
   --vermelha-escura: #070707;
   --branca: #1f0361;
-  --luz: rgb(0, 183, 255);
+  --luz: rgb(3, 14, 116);
 }
 
 body {
@@ -60,7 +60,7 @@ h1 {
   outline: none;
   box-shadow: 1px 1px 10px var(--luz);
 }
-
+app
 .tecla.ativa:focus,
 .tecla:active:focus {
   box-shadow: 3px 3px 0 var(--vermelha-escura) inset, 1px 1px 10px var(--luz);
